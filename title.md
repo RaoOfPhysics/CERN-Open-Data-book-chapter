@@ -1,1 +1,1 @@
-Convex homomorphisms and high-\(T_c\) spin flux
+CERN Open Data: book chapter
