@@ -1,3 +1,5 @@
+# Use cases
+
 - Themes:
     1. Education (Authors: @tpmccauley)
     2. Research (Authors: @katilp, Achim?)
