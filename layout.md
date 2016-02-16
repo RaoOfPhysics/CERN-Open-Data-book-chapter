@@ -4,4 +4,3 @@
 03_solution.md
 04_usecases.md
 05_impact.md
-figures/figure_1/figure_1.jpg
