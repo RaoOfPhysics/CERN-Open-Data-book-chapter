@@ -1,5 +1,7 @@
-abstract.md
-introduction.md
-results.md
-results_table.md
+00_abstract.md
+01_motivation.md
+02_challenges.md
+03_solution.md
+04_usecases.md
+05_impact.md
 figures/figure_1/figure_1.jpg
