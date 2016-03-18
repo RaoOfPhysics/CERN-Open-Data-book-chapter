@@ -16,3 +16,32 @@ A dataset used in a masterclass is prepared by a physicist with a specific analy
 A typical masterclass day starts with a short lecture on particle physics, how the detector works, and how to conduct the analysis to follow. The students view up to one hundred events in an interactive event display: an application that visually renders the events and detector. [screen shot?] With the display the students attempt to determine whether or not the event displayed a W+ and a W-. Very often several groups around the world [need to mention IPPOG and QuarkNet somewhere] are participating in the same masterclasses and student can then compare results via a video conference. 
 
 The material available as educational content in the open data portal includes: derived datasets prepared for specific educational exercises such as masterclasses and tutorials and for applications such as event displays, example analysis code, and virtual machine environment with experiment software. Also included are links to further documentation and information.
+
+Direct exploration of the data via the open data portal is possible with an interactive browser-based event display and histogram tool. [more...]
+
+[the following needs is just, for reference, a list of the content in the portal under Education]
+
+CMS
+* example analysis code
+* masterclass datasets
+* code for preparation of datasets
+* code for creation of event display files
+* event display code
+* links to external learning resources
+* VM
+
+ALICE
+* example analysis code
+* masterclass exercises
+* VM
+* masterclass data
+ 
+ATLAS
+* masterclass data
+* masterclass information
+* event display software
+* ML challenge information
+
+LHCb
+* masterclass files
+* VM
