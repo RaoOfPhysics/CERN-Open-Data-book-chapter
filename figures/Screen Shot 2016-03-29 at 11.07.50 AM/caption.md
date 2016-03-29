@@ -1,1 +1,1 @@
-Replace this text with your caption
+Detailed metadata is provided to enable users to reuse the data easily 
