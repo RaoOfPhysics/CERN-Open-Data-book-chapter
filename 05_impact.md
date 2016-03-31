@@ -10,7 +10,7 @@
 
 Impact on scientists
 
-When the CMS collaboration first drafted the Open Access policy in 2012, the concept was totally new in High Energy Physics. Several concerns were expressed within the collaboration, mainly addressing the eventual additional workload to the collaboration members in case someone would claim contradictory or false results based on the open data. The very concept of open data was new: the researchers - correctly - see the published result as the goal of the research work, and publishing data without results may have been seen as unnecessary, premature or meaningless.
+When the CMS collaboration first drafted the Open Access policy in 2012, the concept of open research data was totally new in High Energy Physics. Several concerns were expressed within the collaboration, mainly addressing the eventual additional workload to the collaboration members in case someone would claim contradictory or false results based on the open data. The very concept of open data was new: the researchers - correctly - see the published result as the goal of the research work, and publishing data without results may have been seen as unnecessary, premature or meaningless.
 
 It was, however, considered that the benefits of the open data, in terms of preserving their scientific potential and enabling their use in education, widely overcome the potential risks. Indeed, the first data release in 2014 gave overwhelmingly positive feedback and the CMS collaboration has now accepted the concept of further regular data releases.
 
