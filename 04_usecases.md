@@ -5,9 +5,15 @@
     2. Research (Authors: @katilp, Achim?)
 - Word count: **2,000**
 
+The division of the CERN Open Data Portal into two main sections, Education and Research, reflects the two main anticipated use-cases.
+
+The first and most enduring use of public data from the LHC is education, particularly in programs designed by the experiments to teach particle physics to students of high-school age (in so-called masterclasses described in further detail below).s Early requests for data to use in these programs were done on an ad-hoc basis, with no open-access policy in place. The success of the educational programs which used early public data was one of the factors considered by the experiments when further data releases and open-access policies were considered, ultimately favourably. 
+
+[Some glue text needed here]
+
 Primary datasets from the LHC experiments reflect the complexity of the experiments themselves. To be able to extract anything meaningful from these datasets one needs at least: knowledge of the physics involved, familiarity with the data format, knowledge of the detector and its performance, a software environment and API particular to the experiment, and software expertise. These are significant hurdles for the general public.
 
-Derived datasets are reductions of the primary datasets in the sense that only part of the information in the primary datasets is kept and/or only some of the events in the primary datasets are selected. Very often the derived datasets are produced in open, human-readable formats such as CSV, XML, and JSON; this is only possible when some of the information from the primary datastes is kept. 
+Derived datasets are reductions of the primary datasets in the sense that only part of the information in the primary datasets is kept and/or only some of the events in the primary datasets are selected. Very often the derived datasets are produced in open, human-readable formats such as CSV, XML, and JSON; this is only possible when some of the information from the primary datasets is kept. 
 
 The actual content and level of complexity of a particular derived dataset often depends on the intended audience. Open data as distributed in derived datasets find widest use in so-called masterclasses. Here, the intended audience are students at the high-school level. The purpose of the masterclass is to teach students a bit about particle physics, the experiments and detectors used to study it, and to give a sense of what it is like to analyse data and to obtain a result. The masterclass often takes place at a local university or laboratory.
 
