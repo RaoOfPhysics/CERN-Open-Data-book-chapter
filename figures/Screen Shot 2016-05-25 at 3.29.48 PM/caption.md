@@ -1,1 +1,1 @@
-Replace this text with your caption
+A screenshot of two histograms created using the application found in the CERN Open Data Portal.
