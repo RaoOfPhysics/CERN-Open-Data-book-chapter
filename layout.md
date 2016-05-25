@@ -5,4 +5,5 @@
 figures/Screen Shot 2016-03-29 at 11.08.18 AM/Screen Shot 2016-03-29 at 11.08.18 AM.png
 figures/Screen Shot 2016-03-29 at 11.07.50 AM/Screen Shot 2016-03-29 at 11.07.50 AM.png
 04_usecases.md
+figures/Screen Shot 2016-05-25 at 3.18.56 PM/Screen Shot 2016-05-25 at 3.18.56 PM.png
 05_impact.md
