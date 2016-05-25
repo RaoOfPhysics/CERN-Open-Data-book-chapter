@@ -5,49 +5,15 @@
     2. Research (Authors: @katilp, Achim?)
 - Word count: **2,000**
 
-The division of the CERN Open Data Portal into two main sections, Education and Research, reflects the two main anticipated use-cases.
+The first and most enduring use of public data from the LHC is education, particularly in programs designed by the experiments to teach particle physics to students of high-school age (in so-called masterclasses described in further detail below). Early requests for data to use in these programs were done on an ad-hoc basis, with no open-access policies yet in place. The success of the educational programs which used early public data was one of the factors considered by the experiments when further data releases and open-access policies were considered, ultimately favourably, as the existence of the CERN Open Data Portal attests.
 
-The first and most enduring use of public data from the LHC is education, particularly in programs designed by the experiments to teach particle physics to students of high-school age (in so-called masterclasses described in further detail below).s Early requests for data to use in these programs were done on an ad-hoc basis, with no open-access policy in place. The success of the educational programs which used early public data was one of the factors considered by the experiments when further data releases and open-access policies were considered, ultimately favourably. 
+The division of the CERN Open Data Portal into two main sections, Education and Research, reflects the two main anticipated use-cases. The division also reflects the respective levels of physics and software knowledge needed to use the content in each section. Primary datasets from the LHC experiments found in the Research reflect the complexity of the experiments themselves. To be able to extract anything meaningful from these datasets one needs at least: knowledge of the physics involved, familiarity with the data format, knowledge of the detector and its performance, a software environment and API particular to the experiment, and software expertise. These are significant hurdles for the general public. The material found in Education in many cases has already found use by the general public and is more easily accessible, in both senses of the word. 
 
-[Some glue text needed here]
-
-Primary datasets from the LHC experiments reflect the complexity of the experiments themselves. To be able to extract anything meaningful from these datasets one needs at least: knowledge of the physics involved, familiarity with the data format, knowledge of the detector and its performance, a software environment and API particular to the experiment, and software expertise. These are significant hurdles for the general public.
-
+The main content in Education consists of derived datasets and two browser-based applications for exploration of the derived datasets.
 Derived datasets are reductions of the primary datasets in the sense that only part of the information in the primary datasets is kept and/or only some of the events in the primary datasets are selected. Very often the derived datasets are produced in open, human-readable formats such as CSV, XML, and JSON; this is only possible when some of the information from the primary datasets is kept. 
 
-The actual content and level of complexity of a particular derived dataset often depends on the intended audience. Open data as distributed in derived datasets find widest use in so-called masterclasses. Here, the intended audience are students at the high-school level. The purpose of the masterclass is to teach students a bit about particle physics, the experiments and detectors used to study it, and to give a sense of what it is like to analyse data and to obtain a result. The masterclass often takes place at a local university or laboratory.
+The actual content and level of complexity of a particular derived dataset often depends on the intended audience. Open data as distributed in derived datasets find widest use in so-called masterclasses. Here, the intended audience are students at the high-school level. The purpose of the masterclass is to teach students a bit about particle physics, the experiments and detectors used to study it, and to give a sense of what it is like to analyse data and to obtain a result. In 2016, the International Particle Physics Outreach Group (IPPOG) masterclasses  coordinated by QuarkNet and TU Dresden were held in forty-six countries with over ten-thousand students participating.
 
-A dataset used in a masterclass is prepared by a physicist with a specific analysis in mind. For example, both ATLAS and CMS have masterclasses where the students are meant to estimate the ratio of positively-charge W bosons to that of negatively-charged W bosons. Therefore, a sample of W bosons must be extracted from the primary datasets. These datasets are distributed as either CSV or XML files. 
+A dataset used in a masterclass is prepared by a physicist with a specific analysis in mind. For example, both ATLAS and CMS have masterclasses where the students are meant to estimate the ratio of positively-charge W bosons to that of negatively-charged W bosons. Therefore, a sample of W bosons must be extracted from the primary datasets. These datasets are distributed as either CSV or XML files. A typical masterclass day starts with a short lecture on particle physics, how the detector works, and how to conduct the analysis to follow. The students view up to one hundred events in an interactive event display: an application that visually renders the events and detector. With the display the students attempt to determine whether or not the event displayed a W+ and a W-. Very often several groups around the world are participating in the same masterclasses and student can then compare results via a video conference. 
 
-A typical masterclass day starts with a short lecture on particle physics, how the detector works, and how to conduct the analysis to follow. The students view up to one hundred events in an interactive event display: an application that visually renders the events and detector. [screen shot?] With the display the students attempt to determine whether or not the event displayed a W+ and a W-. Very often several groups around the world [need to mention IPPOG and QuarkNet somewhere] are participating in the same masterclasses and student can then compare results via a video conference. 
-
-The material available as educational content in the open data portal includes: derived datasets prepared for specific educational exercises such as masterclasses and tutorials and for applications such as event displays, example analysis code, and virtual machine environment with experiment software. Also included are links to further documentation and information.
-
-Direct exploration of the data via the open data portal is possible with an interactive browser-based event display and histogram tool. [more...]
-
-[the following needs is just, for reference, a list of the content in the portal under Education]
-
-CMS
-* example analysis code
-* masterclass datasets
-* code for preparation of datasets
-* code for creation of event display files
-* event display code
-* links to external learning resources
-* VM
-
-ALICE
-* example analysis code
-* masterclass exercises
-* VM
-* masterclass data
- 
-ATLAS
-* masterclass data
-* masterclass information
-* event display software
-* ML challenge information
-
-LHCb
-* masterclass files
-* VM
+Direct exploration of the data via the open data portal is possible with an interactive browser-based event display and histogram tool. 
