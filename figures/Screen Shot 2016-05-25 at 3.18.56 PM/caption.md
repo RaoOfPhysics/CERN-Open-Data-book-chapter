@@ -1,1 +1,1 @@
-Replace this text with your caption
+The browser-based event display found in the CERN Open Data Portal. An event derived from the DoubleMu primary dataset is shown.
