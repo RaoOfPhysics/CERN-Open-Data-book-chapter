@@ -13,10 +13,46 @@ A collaborative approach was taken to deliver the CERN Open Data Portal and the 
 
 Technical:
 
-The platform is based on the digital library framework Invenio [link] which is also developed at CERN. It has been used for numerous digital libraries and repositories around the world and is particularly known for its scalability for large scale libraries, e.g. the INSPIREHEP or CERN Document Server. 
-Using this digital library platform technology provides users with sophisticated search technology while preservation standards are ensured and preservation practices facilitated. Invenio workflows adhere to OAIS. This should help improving the access to resources that have only been available behind closed doors so far. 
-[!FIX ME: this needs some more tech details]
+The CERN Open Data platform is based on the Invenio digital library framework
+that was originally developed at CERN and that is now co-developed by an
+international collaboration.
 
+Invenio provides an ecosystem of standalone independent packages that permit the
+construction of a custom digital repository solution oriented towards various
+use cases, such as an integrated library system, a digital document repository,
+a multimedia archive, or a data repository. Invenio has been used for numerous
+digital library and document repository instances in the world and is
+particularly known for its scalability for large scale libraries, such as CERN
+Document Server or INSPIRE.
+
+In the context of the CERN Open Data Portal, the Invenio framework has been
+extended with several general-public oriented features to make the digital
+library instance look attractive to high-school students and other targeted
+audience (see section 4).
+
+Figure: home page of CODP.
+
+The Invenio digital repository platform manages datasets, software and other
+archived assets by means of persistent identifiers to help later referencability
+and citability. The platform draws inspiration from the Open Archival
+Information System (OAIS) recommended practices to ensure long-term preservation
+of captured assets.
+
+The datasets themselves are stored in CERN's EOS disk storage system. EOS is a
+disk-based service providing low-latency storage infrastructure for physics
+users. The data access is provided by the XRootD protocol and is very well
+suited in situations with many concurrent users, significant fraction of random
+data access, and large file open rate. The XRootD protocol allows ad-hoc
+streaming of necessary portions of data during an analysis, saving general
+public from having to prealably download the complete dataset before an analysis
+can start.
+
+The captured software environments necessary to reproduce an analysis use the
+CernVM virtual machine technology. The CernVM Virtual Software Appliance
+represents a complete, portable and easy-to-configure user environment for
+developing and running LHC data analysis locally and on institutional and
+commercial clouds (OpenStack, Amazon EC2, Google Compute Engine). It removes the
+need for the installation of the experiment software.
 
 Documentation:
 
