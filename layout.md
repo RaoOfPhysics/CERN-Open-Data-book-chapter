@@ -2,6 +2,7 @@
 01_motivation.md
 02_challenges.md
 03_solution.md
+figures/opendata/opendata.png
 figures/Screen Shot 2016-03-29 at 11.08.18 AM/Screen Shot 2016-03-29 at 11.08.18 AM.png
 figures/Screen Shot 2016-03-29 at 11.07.50 AM/Screen Shot 2016-03-29 at 11.07.50 AM.png
 04_usecases.md
