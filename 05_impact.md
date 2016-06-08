@@ -8,6 +8,32 @@
     3. Feedback from outside world, e.g. AMA (data science usage)
 - Word count: **1,000**
 
+Impact on general public
+
+The launch of the CERN Open Data portal in November 2014 and the publication of
+the CMS primary datasets (27 TB), derived datasets, interactive event display
+tools, the CMS virtual machines and the analysis software examples was met with
+a significant interest from general public.
+
+The launch was covered by major news networks and social media, with many
+articles inviting readers to run an LHC physics "in your living room". In the
+month following the release, more than 80,000 people visited the portal, which
+is several times more than the active particle physics community. Most of
+visitors spent time in browsing around site and using provided interactive
+tools. Several thousands of visitors explored the provided data to the full by
+means of studying primary datasets and downloading virtual machines and software
+to analyse the data.
+
+Two weeks after the launch of the portal, an "Ask Me Anything" session was
+organised on Reddit where readers could ask questions about open data and open
+science practices at CERN. The Reddit AMA session attracted considerable
+attention and led to another peak of the CERN Open Data Portal use.
+
+The public interest in the released open data generated several non-physics use
+case scenarios, such as using released datasets as a robust input for digital
+forensics studies related to cloud computing security. It was interesting to see
+possible applications outside of our primary target area.
+
 Impact on scientists
 
 When the CMS collaboration first drafted the Open Access policy in 2012, the concept of open research data was totally new in High Energy Physics. Several concerns were expressed within the collaboration, mainly addressing the eventual additional workload to the collaboration members in case someone would claim contradictory or false results based on the open data. The very concept of open data was new: the researchers - correctly - see the published result as the goal of the research work, and publishing data without results may have been seen as unnecessary, premature or meaningless.
