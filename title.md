@@ -1,1 +1,1 @@
-CERN Open Data: book chapter
+Early experience with open data at CERN
