@@ -1,4 +1,4 @@
-00_abstract.md
+abstract.md
 01_motivation.md
 02_challenges.md
 03_solution.md
