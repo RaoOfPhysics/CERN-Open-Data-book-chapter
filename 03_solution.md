@@ -1,7 +1,5 @@
 # Solution
 
-- Word count: **3,000**
-
 A collaborative approach was taken to deliver both the CERN Open Data Portal and the first big open-data release -- from CMS -- at the same time. Members of CERN IT, CERN Scientific Information Service and the CMS Collaboration developed the platform, catalogued the data and analysis tools for the release, and prepared the appropriate user guidance and documentation. From the very beginning, it proved to be important to have subject specialists, information specialists and IT experts on board together to tackle the delivery of the big, complex datasets. Regular working meetings, sprints and feedback cycles ensured that the work on the portal and its content was on track and meeting the requirements of the potential users and use cases.
 
 ## Developing the platform

@@ -1,7 +1,5 @@
 # Challenges
 
-- Word count: **2,000**
-
 ## Volume of data
 
 Since the LHC began delivering collisions in 2010, and as of writing this document (June 2016), the four detectors have recorded several tens of petabytes (PB) of collision data. Performing an analysis on this volume of data involves several stages. First, the data from the collisions, which are in the form of electrical signals from individual channels within each detector, must be pieced together or reconstructed to form a coherent image of the collision itself. Then, analysis software must sift through the collisions to look for signatures associated with predicted physics phenomena.

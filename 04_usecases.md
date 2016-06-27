@@ -1,7 +1,5 @@
 # Use cases
 
-- Word count: **2,000**
-
 ## Education
 
 The first and most enduring use of public data from the LHC is education, particularly in programs designed by the experiments to teach particle physics to students of high-school age (in so-called masterclasses described in further detail below). Early requests for data to use in these programs were done on an ad-hoc basis, with no open-access policies yet in place. The success of the educational programs which used early public data was one of the factors considered by the experiments when further data releases and open-access policies were considered, ultimately favourably, as the existence of the CERN Open Data Portal attests.

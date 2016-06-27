@@ -1,7 +1,5 @@
 # Impact
 
-- Word count: **1,000**
-
 ## Impact on general public
 
 The launch of the CERN Open Data portal in November 2014 and the publication of
