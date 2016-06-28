@@ -1,1 +1,1 @@
-Early experience with open data at CERN
+Early experience with open data from CERN's Large Hadron Collider
