@@ -1,6 +1,6 @@
 ## Cataloguing data and analysis tools
 
-The CERN Open Data Portal has been developed to serve two main use cases: education and research (see more under Section 4). This is reflected in the information architecture of the Portal itself. It should be noted that special emphasis has been given to providing contextual information that is needed to understand and reuse the data and accompanying software.
+The CERN Open Data Portal has been developed to serve two main use cases: education and research (see more under Section 5). This is reflected in the information architecture of the Portal itself. It should be noted that special emphasis has been given to providing contextual information that is needed to understand and reuse the data and accompanying software.
 
 On the Portal each dataset has its own record. Related records are aggregated in dedicated collections, such as those for "Primary datasets" or "Derived datasets". This aggregation, which is standard practice in digital libraries, has been adopted to research data. Further, metadata -- standardised according to MARC\footnote{\url{https://en.wikipedia.org/wiki/MARC_standards}} -- are provided within each record. Adopting the practices developed by partner information platforms in high-energy physics (e.g. INSPIRE and CDS), standard metadata fields were populated. However, various additional metadata fields needed to be created to make sure information about data are standardised and comprehensive across all the datasets available via the Portal (see Table XXX).
 
