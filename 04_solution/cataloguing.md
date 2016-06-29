@@ -22,7 +22,7 @@ On the Portal each dataset has its own record. Related records are aggregated in
 *Table XXX: The MARC metadata model extended to describe the CMS primary
 datasets. Not exhaustive, showing some fields only.*
 
-The information provided was vetted to be comprehensive enough for future reuse of the data. Certain fields, such as the names of the authors, the publication year, title of the dataset, name of the publisher, were made mandatory for the sake of minting DOIs.
+The information provided was vetted to be comprehensive enough for future reuse of the data. Certain fields, such as the names of the authors, the publication year, title of the dataset, name of the publisher, were made mandatory for the sake of minting DOIs \footnote{See \url{http://doi.org/10.5438/0008 }}.
 
 The metadata are currently stored as XML files, although it is planned to move to JSON schemas with the next release of Invenio (version 3). JSON schemas will provide more flexibility and interoperability with other platforms.
 
