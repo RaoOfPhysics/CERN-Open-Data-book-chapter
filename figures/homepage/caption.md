@@ -1,1 +1,1 @@
-CERN Open Data portal home page.
+CERN Open Data Portal home page.

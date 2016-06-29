@@ -26,6 +26,6 @@ The information provided was vetted to be comprehensive enough for future reuse 
 
 The metadata are currently stored as XML files, although it is planned to move to JSON schemas with the next release of Invenio (version 3). JSON schemas will provide more flexibility and interoperability with other platforms.
 
-The data and metadata on the Portal are provided under a Creative Commons Public Domain Dedication (CC0). This liberal choice should enable any kind of reuse and exploitation of these datasets. Similarly, the software releases available via the portal are also published under Open Source licences. The respective licences are displayed on the individual records on the Portal.
+The data and metadata on the Portal are provided under a Creative Commons Public Domain Dedication (CC0). This liberal choice should enable any kind of reuse and exploitation of these datasets. Similarly, the software releases available via the Portal are also published under Open Source licences. The respective licences are displayed on the individual records on the Portal.
 
 Two example records for primary data are shown below: Image XXX for basic metadata, alongside the Datacite Metadata schema and Image XXX for more specific information such as validation procedures or limitations of the content displayed.
